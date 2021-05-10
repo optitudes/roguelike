@@ -1,0 +1,30 @@
+[api-updater (non-obsolete-error-filter)] 8/05/2021 2:33:39 p. m. : Starting /home/michky/Descargas/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 867,31ms
+moved types parse time: 251ms
+candidates parse time : 4ms
+C# parse time         : 986ms
+candidates check time : 102ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/05/2021 2:41:58 p. m. : Starting /home/michky/Descargas/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2187,927ms
+moved types parse time: 239ms
+candidates parse time : 3ms
+C# parse time         : 1146ms
+candidates check time : 78ms
+console write time    : 7ms
+
+[api-updater (non-obsolete-error-filter)] 8/05/2021 2:42:44 p. m. : Starting /home/michky/Descargas/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163,231ms
+moved types parse time: 160ms
+candidates parse time : 4ms
+C# parse time         : 626ms
+candidates check time : 78ms
+console write time    : 1ms
+
